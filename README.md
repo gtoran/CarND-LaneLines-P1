@@ -27,9 +27,7 @@ Pipeline rewritten due to error detection after a succesful fix in local environ
 
 *(2016/12/18)*
 
-The process is not working as expected, with a high non-detection rate. I need to tweak the paremeters used and rethink the pipeline. This GIF shows the erroneous behavior:
-
-![GIF](https://gtoran.github.io/repository-assets/udacity-sdcnd-t1p1-lane-line-detection/first-try-lane-detection-error.gif)
+The process is not working as expected, with a high non-detection rate. I need to tweak the paremeters used and rethink the pipeline. This [GIF](https://gtoran.github.io/repository-assets/udacity-sdcnd-t1p1-lane-line-detection/first-try-lane-detection-error.gif) shows the erroneous behavior.
 
 ## DISCLAIMER
 
