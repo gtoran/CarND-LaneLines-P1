@@ -13,15 +13,17 @@ The Python notebook implementes a series of functions that should be called in t
 
 * **Step 0**: open the image
 * **Step 1**: output image grayscale
-* **Step 2**: threshold filter
-* **Step 3**: Gaussian blur
-* **Step 4**: Canny edge processing
-* **Step 5**: region masking
-* **Step 6**: Dilation
-* **Step 7**: Hough transformation
-* **Step 8**: Weighted image output
+* **Step 2**: Gaussian blur
+* **Step 3**: Canny edge processing
+* **Step 4**: region masking
+* **Step 5**: Hough transformation
+* **Step 6**: Weighted image output
 
 ## Known issues/bugs
+
+*(2017/03)*
+
+Pipeline rewritten due to error detection after a succesful fix in local environment. Commiting work in progress to preserve history.
 
 *(2016/12/18)*
 
