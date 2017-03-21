@@ -39,7 +39,7 @@ This project passed on its first submission with excellent comments and feedback
 
 * Suggested `kernel_size` reduction to 3
 * `min_line_len = 100`, `max_line_gap = 160`, `threshold = 30`
-* Draw lines could benefit from a cleaner coding approach
+* `draw_lines` could benefit from a cleaner coding approach
 * Upon reading my reflecion, the reviewer suggests the idea of introducing [color maps](http://docs.opencv.org/2.4/modules/contrib/doc/facerec/colormaps.html) to the solution.
 
 ## DISCLAIMER
